@@ -1,4 +1,3 @@
-This section has moved here: [htt
 
 ### Advanced Configuration
 

@@ -1,5 +1,5 @@
 
-This section has m
+
 
 ### Making a Progressive Web App
 
